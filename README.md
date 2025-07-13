@@ -1,6 +1,6 @@
 # 📊 Anjana Suresh — Data Scientist
 
-![banner](https://spectrum.ieee.org/media-library/woman-s-hands-on-a-laptops-keyboard-with-data-and-charts-in-the-background.jpg?id=25586471&width=1200&height=600)  
+![banner](https://editor.analyticsvidhya.com/uploads/78723aiml.jpeg)  
 *(Replace the link above with your own banner image)*
 
 <p align="center">
