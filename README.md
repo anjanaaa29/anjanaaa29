@@ -15,12 +15,6 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=2&column=3" alt="Trophies" />
-</p>
 
 - 🔭 I’m currently working on **RAG Chatbots & NLP projects**
 - 🌱 I’m learning **MLOps and LLM fine-tuning**
@@ -84,18 +78,15 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+<h3 align="left">💻 LeetCode Stats:</h3>
+
+<p align="left">
+  <a href="https://leetcode.com/u/anjana000/" target="_blank">
+    <img src="https://cp-logo.vercel.app/leetcode/your-leetcode-username" alt="LeetCode Stats" />
+  </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
