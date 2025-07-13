@@ -1,6 +1,6 @@
 # 📊 Anjana Suresh — Data Scientist
 
-![banner](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wXa2XDHGwu-vL-uMTdT-LQ.jpeg)  
+![banner](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*gIKsox9RbBhd6Cux)  
 *(Replace the link above with your own banner image)*
 
 <p align="center">
