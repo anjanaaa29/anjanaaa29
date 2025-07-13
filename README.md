@@ -15,87 +15,88 @@
 
 ---
 
-## ✨ About Me
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
-Hi there 👋, I’m **Anjana Suresh**, a **Data Scientist** passionate about transforming data into impactful insights.  
-I enjoy working with **data visualization** and building **ML-powered solutions** that solve real-world problems.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=2&column=3" alt="Trophies" />
+</p>
 
-- 🔎 Skilled in **Python, SQL, Tableau, Power BI**
-- ☁️ Familiar with **Google Cloud Platform**
-- 🤖 Experienced with **Machine Learning & Predictive Modeling**
-- 📈 Crafting intuitive dashboards & storytelling through data
-- 🧹 Data Cleaning & Preprocessing
-- 📊 Statistical Analysis & Hypothesis Testing
-
----
-
-## 🧰 Data Scientist Skills
-
-| Category                | Skills & Tools |
-|--------------------------|-----------------|
-| **Languages**            | Python, R|
-| **Data Visualization**   | Tableau, Power BI, Matplotlib, Seaborn |
-| **Machine Learning**      | Scikit-learn, TensorFlow, XGBoost |
-| **Data Wrangling & ETL**  | Pandas, NumPy |
-| **Statistics & Math**     | Hypothesis Testing, Probability, Linear Algebra |
-| **Cloud Platforms**       | Google Cloud Platform |
-| **Databases**             | MySQL, PostgreSQL, BigQuery |
-| **Version Control & CI/CD** | Git, GitHub Actions |
+- 🔭 I’m currently working on **RAG Chatbots & NLP projects**
+- 🌱 I’m learning **MLOps and LLM fine-tuning**
+- 💬 Ask me about **Python, Machine Learning, Data Analysis**
+- 📫 How to reach me: **your.email@example.com**
+- ⚡ Fun fact: *I love solving real-world problems with data!*
 
 ---
 
-## 🚀 Featured Projects
-
-### 📌 [EVALIA-Interview Prep Bot](#)
-Predicting customer churn using machine learning techniques to help businesses retain valuable customers.
-<br>
-<a href="https://streamlit-whisper-app-296306763775.us-central1.run.app/">
-  <img src="https://your-image-link.com/project1.png" width="600px">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-
-
----
-
-### 📌 [Sales Dashboard](#)
-An interactive Tableau dashboard to visualize and analyze sales performance across regions and products.
-<br>
-<img src="https://your-image-link.com/project2.png" width="600px">
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" height="150" />
+<a href="https://kaggle.com/your-kaggle" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
+<a href="https://instagram.com/your-instagram" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/your-leetcode" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-## 📫 Let’s Connect
-
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Tableau_Logo.png" alt="Tableau" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   </a>
 </p>
 
 ---
 
-> 💡 *“Without data, you're just another person with an opinion.” — W. Edwards Deming*
+<h3 align="left">📊 GitHub Stats:</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
-### 📋 Notes
-✅ Replace all `your-…` placeholders with your actual information.  
-✅ Upload banner and project images to your repo or image hosting and update the links.  
-✅ You can also add more projects, certifications, blogs, or contributions below.
-
----
-
+⭐️ *Thanks for visiting my profile! Feel free to connect & collaborate 🤝*
