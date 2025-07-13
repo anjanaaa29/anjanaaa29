@@ -1,6 +1,6 @@
 # 📊 Anjana Suresh — Data Scientist
 
-![banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.adafruit.com%2Fexcellent-github-profile%2Foverview&psig=AOvVaw2pBsy7-NkOWJe8hJ7hkcGU&ust=1752475733785000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCboYKfuY4DFQAAAAAdAAAAABAE)  
+![banner](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wXa2XDHGwu-vL-uMTdT-LQ.jpeg)  
 *(Replace the link above with your own banner image)*
 
 <p align="center">
