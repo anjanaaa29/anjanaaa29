@@ -4,7 +4,7 @@
 *(Replace the link above with your own banner image)*
 
 <p align="center">
-  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/dc0d4d17-22f1-4b7c-ba48-16f292689cb8" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -12,12 +12,13 @@
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
+
 ---
 
 ## ✨ About Me
 
 Hi there 👋, I’m **Anjana Suresh**, a **Data Scientist** passionate about transforming data into impactful insights.  
-I enjoy working with **data visualization, cloud technologies**, and building **ML-powered solutions** that solve real-world problems.
+I enjoy working with **data visualization** and building **ML-powered solutions** that solve real-world problems.
 
 - 🔎 Skilled in **Python, SQL, Tableau, Power BI**
 - ☁️ Familiar with **Google Cloud Platform**
@@ -32,12 +33,12 @@ I enjoy working with **data visualization, cloud technologies**, and building **
 
 | Category                | Skills & Tools |
 |--------------------------|-----------------|
-| **Languages**            | Python, SQL, R |
+| **Languages**            | Python, R|
 | **Data Visualization**   | Tableau, Power BI, Matplotlib, Seaborn |
 | **Machine Learning**      | Scikit-learn, TensorFlow, XGBoost |
 | **Data Wrangling & ETL**  | Pandas, NumPy |
 | **Statistics & Math**     | Hypothesis Testing, Probability, Linear Algebra |
-| **Cloud Platforms**       | Google Cloud Platform, BigQuery |
+| **Cloud Platforms**       | Google Cloud Platform |
 | **Databases**             | MySQL, PostgreSQL, BigQuery |
 | **Version Control & CI/CD** | Git, GitHub Actions |
 
@@ -45,10 +46,13 @@ I enjoy working with **data visualization, cloud technologies**, and building **
 
 ## 🚀 Featured Projects
 
-### 📌 [Customer Churn Prediction](#)
+### 📌 [EVALIA-Interview Prep Bot](#)
 Predicting customer churn using machine learning techniques to help businesses retain valuable customers.
 <br>
-<img src="https://your-image-link.com/project1.png" width="600px">
+<a href="https://streamlit-whisper-app-296306763775.us-central1.run.app/">
+  <img src="https://your-image-link.com/project1.png" width="600px">
+</a>
+
 
 ---
 
