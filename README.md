@@ -81,10 +81,11 @@
 <h3 align="left">💻 LeetCode Stats:</h3>
 
 <p align="left">
-  <a href="https://leetcode.com/u/anjana000/" target="_blank">
-    <img src="https://cp-logo.vercel.app/leetcode/your-leetcode-username" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/anjana000/" target="_blank">
+    <img src="https://cp-logo.vercel.app/leetcode/anjana000" alt="LeetCode Stats" />
   </a>
 </p>
+
 
 
 
