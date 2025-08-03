@@ -16,11 +16,10 @@
 ---
 
 
-- 🔭 I’m currently working on **RAG Chatbots & NLP projects**
+- 🔭 I’m currently working on **GEN AI**
 - 🌱 I’m learning **MLOps and LLM fine-tuning**
 - 💬 Ask me about **Python, Machine Learning, Data Analysis**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: *I love solving real-world problems with data!*
+- 📫 How to reach me: **anjanauma29@email.com**
 
 ---
 
