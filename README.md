@@ -58,8 +58,9 @@
 ### 🧠 LeetCode Practice
 
 <p align="center">
-  <img src="https://leetcode.com/u/anjana000/" alt="leetcode profile card">
+  <img src="https://leetcard.jacoblin.cool/anjana000?theme=dark&font=Baloo+Bhai&extension=activity" alt="leetcode profile card">
 </p>
+
 
 ---
 
