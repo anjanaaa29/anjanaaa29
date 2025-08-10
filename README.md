@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Passionate about **Machine Learning**, **Mathematics**, and **Data Analytics**
+- 🎓 Passionate about **Data Science**, **Machine Learning**, **Mathematics**, and **Data Analytics**
 - 🛠️ Skilled in **Python**, **SQL**, **Power BI**, **Tableau**, and **Statistical Modeling**
 - 🧠 Constantly learning, building, and solving problems with code
 - 📈 Currently working on projects that blend data storytelling with business impact
